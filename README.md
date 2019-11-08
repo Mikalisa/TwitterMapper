@@ -4,4 +4,6 @@ This application allows the user to specify keywords of interest, and monitors t
 It also plots the location of the user the originated the tweet on a map of the world. To do this, the app makes use of an existing geographical mapping library and the Twitter API.
 
 
-The application can be run using inteliJ IDEA
+The application can be run using inteliJ IDEA.
+
+The dependecies and offline tweets recorded can be found in the data folder.
