@@ -6,4 +6,4 @@ It also plots the location of the user the originated the tweet on a map of the 
 
 The application can be run using inteliJ IDEA.
 
-The dependencies  and offline tweets recorded can be found in the data folder.
+The dependencies  and offline tweets recorded can be found in the data folder, but you can also use a live data!
